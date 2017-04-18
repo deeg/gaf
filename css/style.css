@@ -1,3 +1,7 @@
+.subtitle {
+	color: #fff;
+}
+
 body, html {
 	font-family: 'Open Sans', sans-serif;
 	text-rendering: optimizeLegibility !important;
@@ -173,7 +177,7 @@ hr {
 	padding: 100px 0;
 	text-align: center;
 	color: #fff;
-	background: url(../img/intro-bg.jpg) no-repeat center top;
+	background: url(../img/sniper-02.jpg) no-repeat center top;
 	background-color: #7bc3d1;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -184,40 +188,40 @@ hr {
 	padding: 25px 0 45px 0;
 }
 /* About Section */
-#about {
+#evidence {
 	padding: 100px 0;
 	background: #f6f6f6;
 }
-#about .about-text {
+#evidence .about-text {
 	margin-left: 10px;
 }
-#about img {
+#evidence img {
 	border-radius: 50%;
 	width: 200px;
 	height: 200px;
 	display: inline-block;
 }
-#about p {
+#evidence p {
 	margin-top: 20px;
 	margin-bottom: 30px;
 }
 /* Skills Section */
-#skills {
+#stats {
 	padding: 100px 0;
 	background: #7bc3d1;
 }
-#skills h2 {
+#stats h2 {
 	color: #fff;
 }
-#skills hr {
+#stats hr {
 	background: rgba(255,255,255,0.3);
 }
-#skills .skill {
+#stats .skill {
 	margin-bottom: 40px;
 	text-align: center;
 	padding: 0px;
 }
-#skills .skill h4 {
+#stats .skill h4 {
 	font-weight: 600;
 	color: #fff;
 }
@@ -247,7 +251,7 @@ hr {
 	font-size: .8em;
 }
 /* Portfolio Section */
-#portfolio {
+#partners {
 	padding: 80px 0;
 	background: #ffffff; /* Old browsers */
 	background: -moz-linear-gradient(top, #ffffff 0%, #f4f5f6 49%, #ffffff 100%); /* FF3.6+ */
@@ -374,7 +378,7 @@ ol.type li a:hover {
 .hover-bg:hover .hover-text {
 	opacity: 1;
 }
-#portfolio i.fa {
+#partners i.fa {
 	font-size: 20px;
 	padding: 5px;
 	color: #E87E04;
@@ -405,7 +409,7 @@ ol.type li a:hover {
 	margin: 0;
 }
 /* Resume Section */
-#resume {
+#timeline {
 	padding: 100px 0;
 	background: #f6f6f6;
 }
@@ -579,7 +583,7 @@ color: #2c3e50;
 color: #2c3e50;
 }
 #contact .social {
-	margin-top: 60px;
+	margin-top: 15px;
 }
 #contact .social ul li {
 	display: inline-block;
